@@ -194,7 +194,7 @@ A heavy gold coin stamped with a dragon.
 ## 🎓 Advanced Features
 
 ### Custom Commands
-
+## this is not needed, adventerlib starts with help as like a thing already
 **Click the "Commands" tab**
 
 Example - Add a "help" command:
